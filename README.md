@@ -52,6 +52,6 @@ Here are some ideas to get you started:
        } 
        funFact: [
             'I ❤️ docker cause I ❤️ 🐋',
-            'Use \' instead of \"'
+            'Use \' instead of "'
        ]   
     };

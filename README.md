@@ -26,27 +26,29 @@ Here are some ideas to get you started:
 
 
     const HamidMohammadi = {     
-        pronouns: "He" | "Him",     
-        code: ["Java", "JavaScript"],     
-        askMeAbout: ["Software Architecture", "BackEnd Development"],     
+        pronouns: 'He' | 'Him',     
+        code: ['Java', 'JavaScript'],     
+        askMeAbout: ['Software Architecture', 'BackEnd Development'],     
         technologies: {             
             backEnd: {             
-              Java: ["Spring Boot"],         
-              js: ["Node.JS", "Express"],             
+              Java: ['Servlet', 'Spring Boot'],         
+              js: ['Node.JS', 'Express'],             
             },         
-            frontEnd: {             
-              Web: ["HTML","CSS","BootStrap","React.JS],         
-            },         
-            devOps: ["Azure", "Docker🐳", "Nginx"],         
-            databases: ['MongoDB', 'Oracle', 'SQLServer', 'MySQL', 'SQLite']         
-            misc: ["C", "Python", "C\#", "Socket.IO", ]     
+            frontEnd: ['HTML', 'CSS', 'BootStrap', 'React.JS'],   
+            mobile: {
+                android: 'Java',
+                iOS: 'Swift'
+            },
+            devOps: ['Azure', 'Docker🐳', 'Nginx'],         
+            databases: ['MongoDB', 'Oracle', 'SQLServer', 'MySQL', 'SQLite', 'influxDB']         
+            misc: ['C', 'Python', 'C\#', 'Socket.IO']     
        },     
-       architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],     
-       currentFocus: "Node.js Web Development",   
+       architecture: ['Serverless Architecture', 'Micro Service Architecture'],     
+       currentFocus: 'Node.js Development',   
        reachMeAt: {
-          gmail: "hamid.mohammadi.ir@gmail.com",
-          linkedin: "@mohammadi-hamid",
-          twitter: "@hajitsu1110110"
+          gmail: 'hamid.mohammadi.ir@gmail.com',
+          linkedin: '@mohammadi-hamid',
+          twitter: '@hajitsu1110110'
        } 
-       funFact: "I ❤️ docker cause I ❤️ 🐋" 
+       funFact: 'I ❤️ docker cause I ❤️ 🐋'   
     };

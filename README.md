@@ -31,8 +31,8 @@ Here are some ideas to get you started:
         askMeAbout: ['Software Architecture', 'BackEnd Development'],     
         technologies: {             
             backEnd: {             
-              Java: ['Servlet', 'Spring Boot'],         
-              js: ['Node.JS', 'Express'],             
+                Java: ['Servlet', 'Spring Boot'],         
+                js: ['Node.JS', 'Express'],             
             },         
             frontEnd: ['HTML', 'CSS', 'BootStrap', 'React.JS'],   
             mobile: {
@@ -46,9 +46,12 @@ Here are some ideas to get you started:
        architecture: ['Serverless Architecture', 'Micro Service Architecture'],     
        currentFocus: 'Node.js Development',   
        reachMeAt: {
-          gmail: 'hamid.mohammadi.ir@gmail.com',
-          linkedin: '@mohammadi-hamid',
-          twitter: '@hajitsu1110110'
+            gmail: 'hamid.mohammadi.ir@gmail.com',
+            linkedin: '@mohammadi-hamid',
+            twitter: '@hajitsu1110110'
        } 
-       funFact: 'I ❤️ docker cause I ❤️ 🐋'   
+       funFact: [
+            'I ❤️ docker cause I ❤️ 🐋',
+            'Use \' instead of \"'
+       ]   
     };

@@ -39,9 +39,9 @@ Here are some ideas to get you started:
                 android: 'Java',
                 iOS: 'Swift'
             },
-            devOps: ['Azure', 'Docker🐳', 'Nginx'],         
+            devOps: ['Docker🐳', 'Nginx'],         
             databases: ['MongoDB', 'Oracle', 'SQLServer', 'MySQL', 'SQLite', 'influxDB']         
-            misc: ['C', 'Python', 'C\#', 'Socket.IO']     
+            misc: ['C', 'Python']     
        },     
        architecture: ['Serverless Architecture', 'Micro Service Architecture'],     
        currentFocus: 'Node.js Development',   
@@ -55,5 +55,3 @@ Here are some ideas to get you started:
             'Use \' instead of "'
        ]   
     };
-
-![Hajitsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hajitsu&show_icons=true&theme=transparent)
